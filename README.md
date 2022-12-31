@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-S-Hi0kYLZf](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-S-Hi0kYLZf)
+- Live Site URL: [https://seranela.github.io/huddle-landing-page-with-alternating-feature-blocks/](https://seranela.github.io/huddle-landing-page-with-alternating-feature-blocks/)
 
 ## My process
 
